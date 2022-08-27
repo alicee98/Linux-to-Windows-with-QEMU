@@ -17,7 +17,7 @@ select fav in "${foods[@]}"; do
             break
             ;;
         "Windows-2022")
-            windows_os_link=https://app.vagrantup.com/thuonghai2711/boxes/WindowsIMG/versions/1.0.0/providers/qemu.box
+            windows_os_link=https://upload.yudhabotzmyproject.workers.dev/1:/Yudha%20Mirror%20Drive/WS2022.ISO
             windows_os_name="Windows Server 2022 Preview"
 	    custom_param_disk="windows2022.img"
             break
